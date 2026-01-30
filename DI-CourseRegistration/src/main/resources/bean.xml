@@ -5,7 +5,7 @@
        http://www.springframework.org/schema/beans/spring-beans.xsd" >
 	<bean id="courseReg" class="com.klu.model.CourseRegistration">
 		<constructor-arg value="101" />
-		<constructor-arg value="sathwik" />
+		<constructor-arg value="satish" />
 		<property name="courseName" value="fsad" />
 		<property name="semester" value="4" />
 	

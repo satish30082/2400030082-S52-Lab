@@ -7,7 +7,7 @@ import org.springframework.stereotype.Component;
 public class CourseRegistration {
 	@Value("101")
 	private int rollNo;
-	@Value("Sathwik")
+	@Value("Satish")
 	private String studentName;
 	@Value("FSAD")
 	private String courseName;

@@ -13,7 +13,7 @@ public class Order {
 	
 	public Order() {
 		this.orderId=2005;
-		this.customerName="Sathwik";
+		this.customerName="Satish";
 		this.quantity=3;
 	}
 	
